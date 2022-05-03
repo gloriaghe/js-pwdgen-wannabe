@@ -4,7 +4,7 @@ const tuoNome = prompt("Ciao, sono il tuo generatore automatico di password del 
 
 console.log(tuoNome);
 
-document.getElementById("ilTuoNome").innerHTML= `${tuoNome}`
+document.getElementById("ilTuoNome").innerHTML= `${tuoNome}`;
 
 
 // // chiedi personaggio
