@@ -28,4 +28,4 @@ console.log(numeroPreferito);
 
 // //genera password "nomecognomecolorepreferito21"
 
-document.getElementById("MYpassword").innerHTML= `La tua password è: ${personaggio}${animale}${numeroPreferito}21` ;
+document.getElementById("MYpassword").innerHTML= `La tua password è: ${personaggio}${animale}${numeroPreferito}` ;
