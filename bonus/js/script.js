@@ -25,8 +25,9 @@ console.log(animale);
 const numeroPreferito = prompt("Qual'è il tuo numero preferito?");
 
 console.log(numeroPreferito);
+
+document.getElementById("MYpassword").innerHTML= `La tua password è ${personaggio}${animale}${numeroPreferito}21` ;
 };
 
 // //genera password "nomecognomecolorepreferito21"
 
-document.getElementById("MYpassword").innerHTML= `La tua password è ${personaggio}${animale}${numeroPreferito}21` ;
